@@ -6,7 +6,7 @@
 
 ![Yuri GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos-Yuri&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Yuri&hide=javascript,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Yuri&langs_count=8)
 
 ## Habilidades Atuais
 
