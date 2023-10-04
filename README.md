@@ -6,7 +6,7 @@
 
 ![Yuri GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos-Yuri&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Yuri&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-yuri&layout=compact)
 
 ## Habilidades Atuais
 
@@ -26,5 +26,6 @@
     <img aling="center" alt="html5mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     <img aling="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />  
 </div><br/>
+
 
 
