@@ -5,7 +5,7 @@
 
 
 ![Yuri GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos-Yuri&show_icons=true&theme=transparent)
-![Yuri GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos-Yuri&show_icons=true&theme=transparent)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Yuri&langs_compact)
 
 ## Habilidades Atuais
